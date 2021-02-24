@@ -1,5 +1,5 @@
 # github-app
-My attempt at making Github Followers app of Sean Allen
+My attempt at making Github Followers app by Sean Allen
 
 You can see some of the screens below:
 
