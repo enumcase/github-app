@@ -3,6 +3,8 @@ My attempt at making Github Followers app of Sean Allen
 
 You can see some of the screens below:
 
-        |
-:-------------------------:|:-------------------------:
-![](https://imgur.com/a/NS2Cbn0)  |  ![](https://...Ocean.png)
+<p float="left">
+  <img src="https://imgur.com/a/NS2Cbn0" width="100" />
+  <img src="https://imgur.com/a/NS2Cbn0" width="100" /> 
+  <img src="https://imgur.com/a/NS2Cbn0" width="100" />
+</p>
