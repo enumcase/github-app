@@ -1,5 +1,7 @@
 # github-app
-My attempt at making Github Followers app by Sean Allen
+My attempt at making Github Followers app by Sean Allen.
+
+The UI of the app is done fully programmatically using autolayout. DiffableDataSource and other features have been implemented to accomodate better user experience.
 
 You can see some of the screens below:
 
