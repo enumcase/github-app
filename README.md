@@ -1,7 +1,8 @@
 # github-app
-My attempt at making Github Followers app by Sean Allen.
+GitHub Followers: search for the followers of GitHub user.
 
-The UI of the app is done fully programmatically using autolayout. DiffableDataSource and other features have been implemented to accomodate better user experience.
+The UI of the app is done fully programmatically using autolayout. 
+DiffableDataSource and other features have been implemented to accomodate better user experience.
 
 You can see some of the screens below:
 
