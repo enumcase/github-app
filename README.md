@@ -1,5 +1,5 @@
 # GitHub Followers
-🔦 Search for the followers of GitHub user.
+🔦 Search the followers of GitHub user.
 
 The UI of the app is done fully programmatically using autolayout. 
 DiffableDataSource and other features have been implemented to accomodate better user experience.
